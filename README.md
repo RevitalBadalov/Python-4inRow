@@ -1,4 +1,4 @@
-# Python-4inRow
+# Four In A Row (Python)
 **Project Overview - Server-Client Game Architecture**
 
 This project focuses on implementing a server-client architecture for a game. The architecture comprises two sides: the client, which interacts with and plays the game, and the server, which manages the game's operation. The server enables multiple clients to play simultaneously, updates game progress, and offers different difficulty levels. Communication between the server and clients utilizes the reliable TCP protocol.
